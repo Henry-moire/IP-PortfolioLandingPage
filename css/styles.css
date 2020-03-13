@@ -1,12 +1,21 @@
 .total
 {
     background-color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .heading
 {
     text-align: center;
-    font-size: 4vw; <!--Changes size to match viewport. Currently set to 4%--> 
+    font-size: 4vw; /*Text will change size to match viewport. Currently set to cover 4%*/
+    text-decoration: underline;
 }
+
+.pic
+{
+    
+}
+
 .projects
 {
     border: 4px solid whitesmoke;
