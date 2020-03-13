@@ -1,0 +1,13 @@
+.total
+{
+    background-color: burlywood;
+}
+.heading
+{
+    text-align: center;
+    font-size: 4vw; <!--Changes size to match viewport. Currently set to 4%--> 
+}
+.projects
+{
+    border: 4px solid whitesmoke;
+}
