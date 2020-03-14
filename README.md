@@ -1,8 +1,8 @@
-# {Portfolio Landing Page}
-#### {A portfolio containing all the independent projects done at Moringa school}, {13 March 2020}
-#### By **{Henry Moire}**
+# Portfolio Landing Page
+#### A portfolio containing all the independent projects done at Moringa school, 13 March 2020
+#### By **Henry Moire**
 ## Description
-{A portfolio focused on the projects done at Moringa school. Contains a description and link to all the completed projects.}
+A portfolio focused on the projects done at Moringa school. Contains a description and link to all the completed projects.
 ## Setup/Installation Requirements
 * Requires an internet browser and an internet connection to view the webpage.
 ## Known Bugs
